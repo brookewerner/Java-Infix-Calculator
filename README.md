@@ -1,5 +1,5 @@
 # Java-Infix-Calculator
-Java code to convert infix expressions to postfix, then evaluates the expressions as postfix, utilizing stacks and queues
+Java code converts infix expressions to postfix then evaluates the expressions as postfix, utilizing stacks and queues
 
 Project for CSC 172 The Science of Data Structures with Professor Ted Pawlicki.
 
